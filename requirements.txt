@@ -1,0 +1,27 @@
+# Waste Image Classification System - Dependencies
+# Skill Nexis Deep Learning Major Project
+
+# Core Deep Learning & Machine Learning
+keras>=3.0.0
+tensorflow>=2.15.0; sys_platform != "win32" or platform_machine != "AMD64"
+torch>=2.2.0
+torchvision>=0.17.0
+scikit-learn>=1.3.0
+
+# Scientific & Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+pillow>=10.0.0
+scipy>=1.11.0
+
+# Visualization & Reporting
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Interactive Web Application
+gradio>=4.20.0
+
+# Jupyter Notebook Environment
+jupyterlab>=4.0.0
+notebook>=7.0.0
+ipywidgets>=8.1.0
